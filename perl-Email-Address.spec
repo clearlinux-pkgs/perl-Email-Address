@@ -4,7 +4,7 @@
 #
 Name     : perl-Email-Address
 Version  : 1.909
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Email-Address-1.909.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Email-Address-1.909.tar.gz
 Summary  : '(DEPRECATED) RFC 2822 Address Parsing and Creation'
