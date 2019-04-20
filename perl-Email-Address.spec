@@ -4,10 +4,10 @@
 #
 Name     : perl-Email-Address
 Version  : 1.912
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Email-Address-1.912.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Email-Address-1.912.tar.gz
-Summary  : 'RFC 2822 Address Parsing and Creation'
+Summary  : RFC 2822 Address Parsing and Creation
 Group    : Development/Tools
 License  : Artistic-1.0 Artistic-1.0-Perl GPL-1.0
 Requires: perl-Email-Address-license = %{version}-%{release}
@@ -22,6 +22,7 @@ RFC 2822 Address Parsing and Creation
 Summary: dev components for the perl-Email-Address package.
 Group: Development
 Provides: perl-Email-Address-devel = %{version}-%{release}
+Requires: perl-Email-Address = %{version}-%{release}
 
 %description dev
 dev components for the perl-Email-Address package.
