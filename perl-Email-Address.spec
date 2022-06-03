@@ -4,7 +4,7 @@
 #
 Name     : perl-Email-Address
 Version  : 1.912
-Release  : 24
+Release  : 25
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Email-Address-1.912.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Email-Address-1.912.tar.gz
 Summary  : 'RFC 2822 Address Parsing and Creation'
@@ -97,4 +97,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Email/Address.pm
+/usr/lib/perl5/*
