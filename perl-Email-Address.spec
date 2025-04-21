@@ -7,7 +7,7 @@
 #
 Name     : perl-Email-Address
 Version  : 1.913
-Release  : 33
+Release  : 34
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Email-Address-1.913.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Email-Address-1.913.tar.gz
 Summary  : 'RFC 2822 Address Parsing and Creation'
